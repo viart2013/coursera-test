@@ -7,15 +7,16 @@ body {
 
 /** HEADER **/
 #header-nav {
-	background-color: #f6b319;
+	background-color: #ffffff;
 	border-radius: 0;
 	border: 0;
+	height: 100px;
 }
 #logo-img {
-	background: url('../images/restaurant-logo_large.png') no-repeat center;
-	background-size: 150px 150px;
-	width: 150px;
-	height: 150px;
+	background: url('../images/hello-kitty-png-icon-7_151x151.png') no-repeat center;
+	background-size: 151px 151px;
+	width: 151px;
+	height: 151px;
 	margin: 10px 15px 10px 0;
 }
 
@@ -24,10 +25,10 @@ body {
 }
 
 .navbar-brand h1 {/* Restaurant Name*/
-	font-family: 'Lora', serif;
-	color: #557c3e;
+	font-family: 'Indie Flower', cursive;
+	color: #f450f2;
 	font-size: 1.5em;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-weight: bold;
 	text-shadow: 1px 1px 1px #222;
 	margin-top: 0;
@@ -115,8 +116,8 @@ body {
 
 /* HOME PAGE */
 .container .jumbotron {
-	box-shadow: 0 0 50px #3F0C1F;
-	border: 2px solid #3F0C1F;
+	box-shadow: 0 0 50px #eef430;
+	border: 2px solid #eef430;
 }
 
 #menu-tile, #specials-tile, #map-tile {
